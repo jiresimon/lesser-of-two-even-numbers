@@ -1,1 +1,6 @@
 # lesser-of-two-even-numbers
+
+The code checks for the lesser of two given numbers if they're even,
+ but returns the greater if one or both numbers are odd...
+
+Enjoy and make your comments...
